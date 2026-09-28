@@ -1,4 +1,4 @@
 discord.py==2.7.1
 fpdf2==2.8.7
-requests==2.33.1
+requests==2.34.2
 python-dotenv==1.2.2

@@ -1,0 +1,24 @@
+# ---- Geheimnisse & persönliche Daten (nie auf GitHub) ----
+.env
+.env.*
+!.env.example
+# ---- Buchhaltungsdaten & Belege (bleiben nur lokal + Drive-Backup) ----
+business_data.json
+business_data.json.tmp
+Backups/
+Belege/
+Rechnungen/
+Eigenbelege/
+Storno/
+Qr_code_einnahmen.png
+*.csv
+# ---- Technik ----
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.tmp
+*.log
+.claude/*.lock
+_to_delete/
+Thumbs.db
